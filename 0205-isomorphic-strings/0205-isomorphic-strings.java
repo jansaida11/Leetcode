@@ -5,7 +5,7 @@ class Solution {
 	       for(int i=0;i<s.length();i++){
                 char sc = s.charAt(i);
                 char tc = t.charAt(i);
-	           if(!hm.containsKey(sc) && !rev.containsKey(tc)){
+	        if(!hm.containsKey(sc) && !rev.containsKey(tc)){
                     hm.put(sc,tc);
                     rev.put(tc,sc);
                }
@@ -14,12 +14,11 @@ class Solution {
                     return false;
 
                 }
-               } 
+        	} 
               
 
-	       }
-	       
-	       
-	        return true;
+	}
+	
+return true;
     }
 }
