@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/jansaida11/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/jansaida11/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jansaida11/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/jansaida11/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/jansaida11/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/jansaida11/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/jansaida11/Leetcode/tree/master/2406-decode-the-message) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/jansaida11/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/jansaida11/Leetcode/tree/master/0782-jewels-and-stones) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jansaida11/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/jansaida11/Leetcode/tree/master/2406-decode-the-message) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/jansaida11/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -58,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/jansaida11/Leetcode/tree/master/0645-set-mismatch) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/jansaida11/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
