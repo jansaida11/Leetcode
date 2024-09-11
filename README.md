@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jansaida11/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1635-number-of-good-pairs](https://github.com/jansaida11/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/jansaida11/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/jansaida11/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jansaida11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/jansaida11/Leetcode/tree/master/0782-jewels-and-stones) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/jansaida11/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/jansaida11/Leetcode/tree/master/2406-decode-the-message) |
 ## Matrix
 |  |
