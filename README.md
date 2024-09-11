@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/jansaida11/Leetcode/tree/master/0118-pascals-triangle) |
 | [0777-toeplitz-matrix](https://github.com/jansaida11/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jansaida11/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/jansaida11/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
