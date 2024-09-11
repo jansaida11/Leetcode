@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-toeplitz-matrix](https://github.com/jansaida11/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jansaida11/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1635-number-of-good-pairs](https://github.com/jansaida11/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/jansaida11/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/jansaida11/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jansaida11/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jansaida11/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jansaida11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/jansaida11/Leetcode/tree/master/0782-jewels-and-stones) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/jansaida11/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jansaida11/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/jansaida11/Leetcode/tree/master/2406-decode-the-message) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jansaida11/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -67,5 +69,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/jansaida11/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/jansaida11/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
