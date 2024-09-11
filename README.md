@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jansaida11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/jansaida11/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/jansaida11/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/jansaida11/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/jansaida11/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2406-decode-the-message](https://github.com/jansaida11/Leetcode/tree/master/2406-decode-the-message) |
