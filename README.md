@@ -14,9 +14,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jansaida11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/jansaida11/Leetcode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/jansaida11/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/jansaida11/Leetcode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
