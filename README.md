@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/jansaida11/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jansaida11/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0645-set-mismatch](https://github.com/jansaida11/Leetcode/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/jansaida11/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/jansaida11/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/jansaida11/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/jansaida11/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
