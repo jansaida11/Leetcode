@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/jansaida11/Leetcode/tree/master/0118-pascals-triangle) |
 | [0777-toeplitz-matrix](https://github.com/jansaida11/Leetcode/tree/master/0777-toeplitz-matrix) |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/jansaida11/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/jansaida11/Leetcode/tree/master/0777-toeplitz-matrix) |
+## Greedy
+|  |
+| ------- |
+| [2199-two-furthest-houses-with-different-colors](https://github.com/jansaida11/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
