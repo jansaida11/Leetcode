@@ -1,40 +1,25 @@
 class Solution {
     public int countGoodSubstrings(String s) {
-		int count=0;
-		int sl = 3;
-		
-		int l =0;
-		
-		StringBuilder temp = new StringBuilder();
-		
-		for(int r=0;r<s.length();r++) {
-			
-			temp.append(s.charAt(r));
-			
-			if(r-l==sl) {
-				temp=temp.delete(0,1);
-				
-				l++;
-			}
-			if(r-l+1==sl) {
-				
-				if(isGood(temp.toString())){
-                    count++;
+        int ans = 0;
+        HashMap <Character,Integer> hm = new HashMap<>();
+        int l =0;
+        int sl = 3;
+        for(int r=0;r<s.length();r++){
+            char c = s.charAt(r);
+            hm.put(c,hm.getOrDefault(c,0)+1);
+            if(r-l == 3){
+                char ch = s.charAt(l);
+                hm.put(ch,hm.get(ch)-1);
+                if(hm.get(ch)==0){
+                    hm.remove(ch);
                 }
-			}
-		}
-		  return count;	
-    
-    }
-   
-    public static boolean isGood(String s) {
+                l++;
+            }
 
-        HashSet<Character> hs = new HashSet<>();
-        for (int i = 0; i < s.length(); i++) {
-            if (!hs.add(s.charAt(i))) {
-                return false;
+            if(hm.size()==3){
+                ans++;
             }
         }
-        return true;
-}
+    return ans;
+    }
 }
