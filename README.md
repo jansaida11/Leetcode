@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/jansaida11/Leetcode/tree/master/0009-palindrome-number) |
 | [1635-number-of-good-pairs](https://github.com/jansaida11/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
